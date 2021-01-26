@@ -3,8 +3,11 @@ layout: page
 title: About
 ---
 <b>Neurohumanities: Convergent research at the nexus of neuroengineering and the humanities</b>
+<br>
 Prerequisites: None
+<br>
 Spring 2021
+<br>
 
 The neurohumanities is an emergent field of study and research that brings together humanists (from the arts,
 language, ethics, philosophy, social science, and culture) and neuroengineers into dialogue to address some of
