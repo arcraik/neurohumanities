@@ -2,9 +2,9 @@
 layout: page
 title: About
 ---
-Catalog Description
-Special Topics. Cr. 3. Prerequisites: None. Neurohumanities: Convergent research at the nexus of
-neuroengineering and the humanities (Spring 2021 – ECE 5397/6397).
+<b>Neurohumanities: Convergent research at the nexus of neuroengineering and the humanities</b>
+Prerequisites: None
+Spring 2021
 
 The neurohumanities is an emergent field of study and research that brings together humanists (from the arts,
 language, ethics, philosophy, social science, and culture) and neuroengineers into dialogue to address some of
@@ -15,7 +15,7 @@ course will review approaches, methodologies and neurotechnologies that can be u
 research in the neurohumanities. This course is aimed to students from all areas of humanities and engineering.
 
 <br>
-Course Topics
+<b>Course Topics</b>
 <br>
 • How to bring humanists and neuroengineers into dialogue on timely societal issues that concern
 both groups.
@@ -28,9 +28,7 @@ neuroengineering.
 • Science dissemination with societal impact
 <br>
 <br>
-Expected Course Outcomes:
-<br>
-Participants who successfully complete these use cases can expect the following outcomes.
+<b>Expected Course Outcomes:</b>
 <br>
 • Participants will add to their knowledge-base best practices for emerging partnership for
 exploring and understanding the human experience.
