@@ -14,7 +14,9 @@ understanding the brain response to the arts, and the potential for direct brain
 course will review approaches, methodologies and neurotechnologies that can be used to pursue convergent
 research in the neurohumanities. This course is aimed to students from all areas of humanities and engineering.
 
+<br>
 Course Topics
+<br>
 • How to bring humanists and neuroengineers into dialogue on timely societal issues that concern
 both groups.
 • Discussion of discourses, methodologies, and technologies used in the humanities and
