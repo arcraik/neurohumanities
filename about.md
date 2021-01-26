@@ -19,20 +19,30 @@ Course Topics
 <br>
 • How to bring humanists and neuroengineers into dialogue on timely societal issues that concern
 both groups.
+<br>
 • Discussion of discourses, methodologies, and technologies used in the humanities and
 neuroengineering.
+<br>
 • In-depth discussion of cases studies in the arts, neuroethics, and design.
+<br>
 • Science dissemination with societal impact
+<br>
+<br>
 Expected Course Outcomes:
-Students who successfully complete this course are expected to meet the following course
-outcomes.
-• Students will add to their knowledge-base best practices for emerging partnership for
+<br>
+Participants who successfully complete these use cases can expect the following outcomes.
+<br>
+• Participants will add to their knowledge-base best practices for emerging partnership for
 exploring and understanding the human experience.
-• Students will further develop their basic technical skills in mobile brain-body imaging
+<br>
+• Participants will further develop their basic technical skills in mobile brain-body imaging
 technologies to assay the brain and the body in free behaving individuals.
-• Students will continue to develop their ability to choose between various trans-disciplinary
+<br>
+• Participants will continue to develop their ability to choose between various trans-disciplinary
 approaches and to learn to take systematic approaches to difficult problems, and therefore 
 identify, formulate, and solve engineering problems of societal importance efficiently.
-• Students will demonstrate an appropriate level of attention to detail and the use of clear,
+<br>
+• Participants will demonstrate an appropriate level of attention to detail and the use of clear,
 appropriate notation, which will facilitate their ability to communicate effectively withboth
 technical colleagues and the general public.
+<br>
