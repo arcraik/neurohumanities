@@ -47,7 +47,7 @@ title: People
 <h3>Teaching Assistant</h3>
 <div>
 <img class="peoplepic" src="/photos/Akshay.jpg" alt="Akshay Ravindran" />
-<h4>Akshay Ravindran, Doctoral Candidate</a></h4>
+<h4>Akshay Ravindran, Doctoral Candidate</h4>
 <h4>Electrical Engineering, Neuroengineering</h4>
 <h4>asujatha@Central.uh.edu</h4>
 
