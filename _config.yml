@@ -1,15 +1,13 @@
 theme: minima
-title: NeuroExo
+title: NeuroHumanities
 #author: 
 #email: email goes here
-description: BMI Robotic Rehabilitation
+description: University of Houston
 permalink: pretty
 header_pages:
   - about.md
   - research.md
-  - impacts.md
   - people.md
-  - publications.md
   - contact.md
 show_excerpts: true
 excerpt_separator: <!--more-->
