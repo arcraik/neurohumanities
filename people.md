@@ -67,4 +67,4 @@ title: People
 </div>
 
 
-<script src="/javascript/modal.js"></script>
+<script src="/neurohumanities/javascript/modal.js"></script>
