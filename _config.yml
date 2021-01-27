@@ -8,6 +8,7 @@ header_pages:
   - about.md
   - research.md
   - people.md
+  - lab.md
   - contact.md
 show_excerpts: true
 excerpt_separator: <!--more-->
