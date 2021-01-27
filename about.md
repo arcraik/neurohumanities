@@ -4,6 +4,8 @@ title: About
 ---
 <b>Neurohumanities: Convergent research at the nexus of neuroengineering and the humanities</b>
 <br>
+Course: ECE 5397/6397
+<br>
 Prerequisites: None
 <br>
 Spring 2021
