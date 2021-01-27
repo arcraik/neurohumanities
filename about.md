@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<b>Neurohumanities: Convergent research at the nexus of neuroengineering and the humanities</b>
+<b>NeuroHumanities: Convergent research at the nexus of neuroengineering and the humanities</b>
 <br>
 Course: ECE 5397/6397
 <br>
