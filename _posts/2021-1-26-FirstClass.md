@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The team prepares for the Color Field Exhibit
+title: Case Study I: The NeuroHumanities team prepares for the Color Field Exhibit
 ---
 <img src="/neurohumanities/photos/first_meet.png">
 <br>
