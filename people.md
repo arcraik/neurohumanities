@@ -86,7 +86,7 @@ title: People
 <div>
 <img class="peoplepic" src="/neurohumanities/photos/maria.jpg" alt="Maria Gaztambide" />
 <h4>Maria Gaztambide, Ph.D.</h4>
-<h4>Inaugural Director and chief Curator of Public Art of the University of Houston System</h4>
+<h4>Inaugural Director and Chief Curator of Public Art of the University of Houston System</h4>
 
 <button class="modal-button" href="#mariaG">About Maria</button>
 <div id="mariaG" class="modal">
