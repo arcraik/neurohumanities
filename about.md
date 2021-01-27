@@ -20,6 +20,7 @@ research in the neurohumanities. This course is aimed to students from all areas
 <br>
 <b>Course Topics</b>
 <br>
+<br>
 • How to bring humanists and neuroengineers into dialogue on timely societal issues that concern
 both groups.
 <br>
@@ -32,6 +33,7 @@ neuroengineering.
 <br>
 <br>
 <b>Expected Course Outcomes:</b>
+<br>
 <br>
 • Participants will add to their knowledge-base best practices for emerging partnership for
 exploring and understanding the human experience.
