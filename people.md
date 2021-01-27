@@ -65,6 +65,30 @@ title: People
  </div>
  </div>
 </div>
+<br>
 
+
+<h3>Students / Trainees</h3>
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/ArCraik.jpg" alt="Alex Craik" />
+<h4>Alex Craik, Doctoral Candidate</h4>
+<h4>Electrical Engineering, Neuroengineering</h4>
+<h4>Webmaster</h4>
+<h4>arcraik@uh.edu</h4>
+
+<button class="modal-button" href="#craik">About Alex</button>
+<div id="craik" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Alex Craik, Doctoral Candidate</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/ArCraik.jpg" alt="Alex Craik" />
+     <div><p class="content">Akshay Ravindran is a Ph.D. candidate at the University of Houston who considers  Health, Alex Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
 
 <script src="/neurohumanities/javascript/modal.js"></script>
