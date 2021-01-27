@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The team prepares for the Color Field Excibit
+title: The team prepares for the Color Field Exhibit
 ---
 <img src="/neurohumanities/photos/first_class.jpg">
 <br>
