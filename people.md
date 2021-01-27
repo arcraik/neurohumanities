@@ -133,5 +133,30 @@ title: People
  </div>
  </div>
 </div>
+<br>
+
+
+
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/alarcon.jpg" alt="Christian Alarcon" />
+<h4>Christian Alarcon</h4>
+<h4>Biology and Biochemistry</h4>
+<h4>cbalarcon@uh.edu</h4>
+
+<button class="modal-button" href="#alarcon">About Christian</button>
+<div id="alarcon" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Christian Alarcon</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/alarcon.jpg" alt="Christian Alarcon" />
+     <div><p class="content">Christian Bernard Alarcon is a M.S. Biology student at the University of Houston. His research interests stem from his undergraduate background in brain-computer interfaces, studying the brain is stimulated by creative art. His work has highlighted how brain signals function during commonplace settings (at-home). Currently, he is currently learning science from a medical perspective, learning how biochemical adjustments and public health climates can cascade towards disease. In the future, he hopes to become a physician.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
 
 <script src="/neurohumanities/javascript/modal.js"></script>
