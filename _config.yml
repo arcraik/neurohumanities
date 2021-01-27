@@ -9,6 +9,7 @@ header_pages:
   - research.md
   - people.md
   - lab.md
+  - calendar.md
   - contact.md
 show_excerpts: true
 excerpt_separator: <!--more-->
