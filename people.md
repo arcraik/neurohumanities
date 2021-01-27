@@ -32,7 +32,7 @@ title: People
    <div class="modal-content">
       <div class="modal-header">
         <span class="close">×</span>
-        <h2>Jose L Contreras-Vidal, PHD</h2>
+        <h2>Jose L Contreras-Vidal, Ph.D.</h2>
       </div>
       <div class="modal-body">
           <img class="content peoplepic" src="/neurohumanities/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
@@ -44,28 +44,58 @@ title: People
 </div>
 <br>
 
-<h3>Teaching Assistant</h3>
-<div>
-<img class="peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Akshay Ravindran" />
-<h4>Akshay Ravindran, Doctoral Candidate</h4>
-<h4>Electrical Engineering, Neuroengineering</h4>
-<h4>asujatha@Central.uh.edu</h4>
 
-<button class="modal-button" href="#akshay">About Akshay</button>
-<div id="akshay" class="modal">
+
+
+
+
+<h3>Guest Speakers / Collaborators</h3>
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/maria.jpg" alt="Maria Gaztambide" />
+<h4>Maria Gaztambide, Ph.D.</h4>
+<h4>Inaugural Director and chief Curator of Public Art of the University of Houston System</h4>
+
+<button class="modal-button" href="#mariaG">About Maria</button>
+<div id="mariaG" class="modal">
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
-     <h2>Akshay Ravindran, Doctoral Candidate</h2>
+     <h2>Maria Gaztambide, Ph.D.</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Akshay Ravindran" />
-     <div><p class="content">Akshay Ravindran is a Ph.D. candidate at the University of Houston who considers  Health, Education, and Spirituality to be the three pillars of his research career. His expertise lies in the population level exploration of neural features measured from the scalp using electroencephalography (EEG), and he is a strong advocate for bridging deep learning algorithms to neuroscience. Currently, his work is centered around two main projects i) detecting the loss of balance in exoskeleton in both able-bodied and stroke survivors from the corticomuscular signals; ii) studying the neurological markers of cognitive decline associated with aging.</p></div>
+       <img class="content peoplepic" src="/neurohumanities/photos/maria.jpg" alt="Maria Gaztambide" />
+     <div><p class="content">Maria C. Gaztambide, Ph.D., is the inaugural director and chief curator of Public Art of the University of Houston System. Her work over the years has focused on the intersection of art, technology, and the public realm. Prior to joining the University of Houston, Dr. Gaztambide served as associate director of the International Center for the Arts of the Americas at the Museum of Fine Arts, Houston  a research center focused on twentieth century Latin American and U.S. based Latino art. During her nearly 13-year tenure at MFAH, her work spanned administration, research, publications, and long-term exhibition projects such as Contesting Modernity: Informalism in Venezuela, 1955–1975 (2018), Contingent Beauty: Contemporary Art from Latin America (2015); and Intersecting Modernities: Latin American Art from the Brillembourg Capriles Collection (2013). There she also directed a continentally-scaled collaborative program centered on the archival retrieval and massive dissemination of primary sources and critical documents from Latin America and Latino U.S. that are made available to the global learning community through a web-based platform. Previously, she was a curator and taught at Tulane University; worked for the Smithsonian Institution (Archives of American Art) in Washington, New York, and Puerto Rico; as well as for the Museo de Arte de Puerto Rico during its gestational phase.</p></div>
     </div>
  </div>
  </div>
 </div>
 <br>
+
+
+<h3>Students / Trainees</h3>
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/ArCraik.jpg" alt="Alex Craik" />
+<h4>Alex Craik, Doctoral Candidate</h4>
+<h4>Electrical Engineering, Neuroengineering</h4>
+<h4>Webmaster</h4>
+<h4>arcraik@uh.edu</h4>
+
+<button class="modal-button" href="#craik">About Alex</button>
+<div id="craik" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Alex Craik, Doctoral Candidate</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/ArCraik.jpg" alt="Alex Craik" />
+     <div><p class="content">Alex Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
 
 
 <h3>Students / Trainees</h3>
