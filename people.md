@@ -16,13 +16,12 @@ title: People
 
  </html>
  
- 
- 
- 
- 
+  
  
  
 <h3>Professor</h3>
+
+
 <div>
   <img class="peoplepic" src="/neurohumanities/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
   <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D.</a></h4>
@@ -45,7 +44,6 @@ title: People
           <img class="content peoplepic" src="/neurohumanities/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
         <div><p class="content">Jose Luis Contreras-Vidal, Ph.D., IEEE Fellow (EMBS, SMC, RAS), is Cullen Distinguished Professor of Electrical &amp; Computer Engineering, and Director of the NSF Industry-University Collaborative Research Center on Building Reliable Advances and Innovations in Neurotechnologies (IUCRC BRAIN) at the University of Houston, and the Principal Investigator for this NSF PFI Project. He has pioneered the development of noninvasive brain-machine interfaces and wearable exoskeletons to restore motor function in individuals with spinal cord injury, stroke and limb amputation. Professor Contreras-Vidal is an associate editor of IEEE Transactions on Human Machine Systems and J of Mobile Human Computer Interaction, a Review Editor for Frontiers in Neuroprosthetics, a Topic Editor for Frontiers in Human Neuroscience and Editor-in-Chief for the incoming book (Springer Nature Switzerland AG) on Mobile Brain-Body Imaging and the Neuroscience of Art, Innovation and Creativity. His work has been supported by the NIH, NSF, VA, DARPA, ONR, Foundations, donors, and industry. Dr. Contreras-Vidal’s research has been highlighted by The Economist, Nature, Science, Science News, Der Spiegel, NSF, Wall Street Journal, SFN, O&amp;P, Scientific American, NPR’s Science Friday, and Neurology Today among others. Jose’s career development in biomedical engineering has been highlighted in the magazine Science.</p></div>
        </div>
-
 </div>
 </div>
 </div>
@@ -54,9 +52,9 @@ title: People
 
 
 
-
-
 <h3>Teaching Assistant</h3>
+
+
 <div>
 <img class="peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Akshay Ravindran" />
 <h4>Akshay Ravindran, Doctoral Candidate</h4>
@@ -68,7 +66,7 @@ title: People
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
-     <h2>Ravindran, Akshay, Doctoral Candidate</h2>
+     <h2>Akshay Ravindran, Doctoral Candidate</h2>
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Ravindran, Akshay" />
@@ -83,6 +81,8 @@ title: People
 
 
 <h3>Guest Speakers / Collaborators</h3>
+
+
 <div>
 <img class="peoplepic" src="/neurohumanities/photos/maria.jpg" alt="Maria Gaztambide" />
 <h4>Maria Gaztambide, Ph.D.</h4>
@@ -107,18 +107,9 @@ title: People
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <h3>Students / Trainees</h3>
+
+
 <div>
 <img class="peoplepic" src="/neurohumanities/photos/ArCraik.jpg" alt="Alex Craik" />
 <h4>Alex Craik, Doctoral Candidate</h4>
