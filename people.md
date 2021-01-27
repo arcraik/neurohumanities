@@ -24,7 +24,7 @@ title: People
 
 <div>
   <img class="peoplepic" src="/neurohumanities/photos/JContreras-Vidal.jpg" alt="Jose Luis Contreras-Vidal" />
-  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D.</a></h4>
+  <h4><a href="http://www.ee.uh.edu/faculty/contreras-vidal" target="_blank"> Jose Luis Contreras-Vidal Ph.D., IEEE Fellow</a></h4>
   <h4>Hugh Roy and Lillie Cranz Cullen Distinguished Professor</h4>  
   <h4><a href="http://brain.egr.uh.edu/" target="_blank"> Director, UH NSF IUCRC BRAIN</a></h4>
   <h4>jlcontreras-vidal@uh.edu</h4>
@@ -59,6 +59,8 @@ title: People
 <img class="peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Akshay Ravindran" />
 <h4>Akshay Ravindran, Doctoral Candidate</h4>
 <h4>Electrical Engineering, Neuroengineering</h4>
+<h4>President, BRAIN Student Group (University of Houston)</h4>v
+<h4>Secretary, EMBS Houston Section</h4>
 <h4>asujatha@Central.uh.edu</h4>
 
 <button class="modal-button" href="#akshay">About Akshay</button>
