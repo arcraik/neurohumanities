@@ -159,4 +159,31 @@ title: People
 </div>
 <br>
 
+
+
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/alarcon.jpg" alt="Luciano Rezende Fiuza Branco" />
+<h4>Luciano Rezende Fiuza Branco</h4>
+<h4>Electrical and Computer Engineering</h4>
+<h4>lfbranco@cougarnet.uh.edu</h4>
+
+<button class="modal-button" href="#Luciano">About Luciano</button>
+<div id="Luciano" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Luciano Rezende Fiuza Branco</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/Luciano.jpg" alt="Luciano Rezende Fiuza Branco" />
+     <div><p class="content">Luciano Branco is a M.S. student at the ECE department of the University of Houston. He is part of the Computational Medicine Lab run by Dr. Rose T. Faghih, where he is currently working in feedback control algorithms for brain state regulation, using physiological data extracted non-invasively. He has also worked as a research assistant for Dr. Yunpeng Zhang, exploring machine learning and computer vision algorithms to aid in law enforcement and safety of public roads.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
 <script src="/neurohumanities/javascript/modal.js"></script>
