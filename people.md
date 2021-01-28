@@ -59,7 +59,7 @@ title: People
 <img class="peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Akshay Ravindran" />
 <h4>Akshay Ravindran, Doctoral Candidate</h4>
 <h4>Electrical Engineering, Neuroengineering</h4>
-<h4>President, BRAIN Student Group (University of Houston)</h4>v
+<h4>President, BRAIN Student Group (University of Houston)</h4>
 <h4>Secretary, EMBS Houston Section</h4>
 <h4>asujatha@Central.uh.edu</h4>
 
