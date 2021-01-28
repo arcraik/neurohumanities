@@ -162,7 +162,7 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/neurohumanities/photos/alarcon.jpg" alt="Luciano Rezende Fiuza Branco" />
+<img class="peoplepic" src="/neurohumanities/photos/Luciano.jpg" alt="Luciano Rezende Fiuza Branco" />
 <h4>Luciano Rezende Fiuza Branco</h4>
 <h4>Electrical and Computer Engineering</h4>
 <h4>lfbranco@cougarnet.uh.edu</h4>
