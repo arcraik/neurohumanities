@@ -185,5 +185,29 @@ title: People
 
 
 
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/AnaZ.jpg" alt="Ana Zoli Concepcion Bayeme Nanlahao" />
+<h4>Ana Zoli Concepcion Bayeme Nanlaha</h4>
+<h4>Chemical Engineering</h4>
+<h4>Acbayemenanlaha@uh.edu</h4>
+
+<button class="modal-button" href="#AnaZ">About Ana</button>
+<div id="AnaZ" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Ana Zoli Concepcion Bayeme Nanlahao</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/AnaZ.jpg" alt="Ana Zoli Concepcion Bayeme Nanlahao" />
+     <div><p class="content">Ana Zoli Concepcion Bayeme Nanlahao is a chemical engineering undergraduate student at the University of Houston.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
 
 <script src="/neurohumanities/javascript/modal.js"></script>
