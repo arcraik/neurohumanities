@@ -11,6 +11,7 @@ header_pages:
   - lab.md
   - calendar.md
   - contact.md
+  - outreach.md
 show_excerpts: true
 excerpt_separator: <!--more-->
 plugins:
