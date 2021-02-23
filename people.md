@@ -72,7 +72,7 @@ title: People
    </div>
    <div class="modal-body">
        <img class="content peoplepic" src="/neurohumanities/photos/Akshay.jpg" alt="Ravindran, Akshay" />
-     <div><p class="content">Akshay Ravindran is a Ph.D. candidate at the University of Houston who considers  Health, Alex Craik is currently a PhD student in Electrical and Computer Engineering (ECE) at the University of Houston. He previously received his M.S. in ECE, his B.S. in Aerospace Engineering, and his B.A. in Economics. His research involves the use of transfer learning and deep neural networks in decoding neural intent with EEG. His interests include neuroscience and speech synthesis.</p></div>
+     <div><p class="content">Akshay Ravindran is a 5th year Ph.D. candidate at the University of Houston and is the TA/Guest Lecturer for the course. His expertise lies in the population level exploration of neural features measured from the scalp using electroencephalography (EEG). His research interest includes developing brain computer interfaces, studying the brain in real-world settings, meditation, and developing modeling tools for extracting patterns from electrophysiological data. Currently, his work is centered around two main projects i) detecting the loss of balance in exoskeleton in both able-bodied and stroke survivors from the corticomuscular signals; ii) Developing interpretable deep learning models for EEG. </p></div>
     </div>
  </div>
  </div>
