@@ -108,6 +108,52 @@ title: People
 
 
 
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/amos.jpg" alt="Amos Cochran" />
+<h4>Amos Cochran</h4>
+<h4>Composer, musician and sound artist</h4>
+
+<button class="modal-button" href="#amos">About Amos</button>
+<div id="amos" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Amos Cochran</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/amos.jpg" alt="Amos Cochran" />
+     <div><p class="content">Amos Cochran is an Emmy nominated composer, musician and sound artist based in America. His compositions for film, theater, radio, and television have received many honors, including a 2010 Kennedy Center Excellence in Composing Award and a premier at the 2017 Sundance Film Festival. In 2019, he was commissioned by Crystal Bridges Museum of American Art to create a sound piece for their groundbreaking outdoor exhibition Color Field, and he was selected by global creative house Justkids to be an official artist of the award-winning Unexpected urban and contemporary art festival.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/Chapman.jpg" alt="Teresa Chapman" />
+<h4>Teresa Chapman, MFA</h4>
+<h4>Associate Professor of Dance at the University of Houston</h4>
+
+<button class="modal-button" href="#chapman">About Teresa</button>
+<div id="chapman" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Teresa Chapman, MFA</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/Chapman.jpg" alt="Teresa Chapman" />
+     <div><p class="content">Teresa Chapman is an Associate Professor at the University of Houston where she teaches dance technique, aesthetics, and pedagogy. As a performer in Houston, she has worked exclusively with Karen Stokes Dance. She has also been invited to perform works by other Houston-based choreographers including Toni Leago Valle, Erin Reck, Amy Ell, and Becky Valls. In the past, she has performed with various artists in Santa Barbara, San Francisco, Los Angeles, Washington DC (Liz Lerman Dance Exchange), and New York (KDNY). Chapman is also an independent choreographer. Her work has been presented at DiverseWorks Art Space, Miller Outdoor Theatre, Barnevelder Movement Arts Complex, the Evelyn Rubenstein Jewish Community Center, and the Cunningham Studios in New York City. In addition, her work has also been commissioned by the University of Nebraska, West Virginia University, UC Santa Barbara, and Bucknell University. She has received multiple internal UH grants and has received external funding from Houston Arts Alliance Individual Artist and Project grants to support her work. In 2010, she was the recipient of the Ross M. Lence Teaching Award for the College of Liberal Arts and Social Sciences. Most recently, she was promoted to Associate Professor with Tenure and the University of Houston. Chapman received her MFA in Dance from California State University, Long Beach.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
 
 <h3>Students / Trainees</h3>
 
