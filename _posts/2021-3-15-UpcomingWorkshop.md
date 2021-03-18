@@ -2,7 +2,7 @@
 layout: post
 title: Case Study 3 - Your Brain and Dance with Teresa Chapman
 ---
-<img src="/neurohumanities/photos/brain_dance.png">
+<img src="/neurohumanities/photos/brain_dance.jpg">
 <br>
 <p>On March 23rd and 25th, we will be having our third case study: Your Brain and Dance with Teresa Chapman.  During these sessions, Teresa Chapman and Dr. Contreras-Vidal will lead discussions on the neuroscience involved with dance.
 
