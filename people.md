@@ -154,6 +154,31 @@ title: People
 
 
 
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/veron.png" alt="Verónica Ordóñez" />
+<h4>Verónica Ordóñez</h4>
+<h4>Undergraduate in the English Department</h4>
+
+<button class="modal-button" href="#veron">About Verónica</button>
+<div id="veron" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Verónica Ordóñez</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/veron.png" alt="Verónica Ordóñez" />
+     <div><p class="content">Verónica Ordóñez is a senior English B.A. and Dance Minor at the University of Houston, and this is her first year in the UH Dance Ensemble. She joined the UH Dance Department during her sophomore year of college and has since performed with UH at Emerging Choreographer’s Showcase in the Lyndall Finley Wortham Theater and in Houston’s Zilkha Hall, and at UH Goes to the MATCH in Houston’s MATCH Theater. She has received additional training through the month-long Gibney Dance Center Summer Study Intensive in New York City. Apart from dance, Verónica is a 2020 Mellon Scholar and conducts research in the neurohumanities. She has presented her interdisciplinary scholarship, “When Words Fail: Narrative and Dance in Posttraumatic Stress” at UH Undergraduate Research Day in September 2020, and the same work was most recently chosen to be exhibited at Texas Undergraduate Research Day in February 2021. She will also be defending her Senior Honors Thesis this coming April 2021. Verónica is currently working in collaboration with the UH School of Theatre & Dance and the Brain-Machine Interface Lab in the Cullen College of Engineering to create a dance-technology piece. She is looking forward to graduating in May 2021 and working in literary publishing or arts administration while continuing to dance. She lives in Houston, Texas.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
 
 <h3>Students / Trainees</h3>
 
