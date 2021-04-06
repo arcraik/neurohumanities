@@ -211,7 +211,7 @@ title: People
 <h4>Lizzy Bosell</h4>
 <h4>Yoga Instructor - Yoga Better</h4>
 
-<button class="modal-button" href="#veron">About Lizzy Bosell</button>
+<button class="modal-button" href="#lizzy">About Lizzy Bosell</button>
 <div id="lizzy" class="modal">
 <div class="modal-content">
    <div class="modal-header">
