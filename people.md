@@ -308,6 +308,61 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
 
 
 
+
+
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/Himanshu.jpg" alt="Himanshu Bharadwaj Kunapuli" />
+<h4>Himanshu Bharadwaj Kunapuli</h4>
+<h4>Electrical and Computer Engineering</h4>
+<h4>bharadwaj.himanshu0@gmail.com</h4>
+
+<button class="modal-button" href="#Luciano">About Himanshu</button>
+<div id="Himanshu" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Himanshu Bharadwaj Kunapuli</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/Himanshu.jpg" alt="Himanshu Bharadwaj Kunapuli" />
+     <div><p class="content">Himanshu is pursuing his masters in electrical engineering. He is very much interested in robotics which motivated him to do his masters with a specialization in controls and robotics.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
+
+<div>
+<img class="peoplepic" src="/neurohumanities/photos/chase.png" alt="Chase Philip" />
+<h4>Chase Philip</h4>
+<h4>Electrical and Computer Engineering</h4>
+<h4>chase.r.philip@gmail.com</h4>
+
+<button class="modal-button" href="#Luciano">About Chase</button>
+<div id="Chase" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Chase Philip</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/chase.png" alt="Chase Philip" />
+     <div><p class="content">Chase is a senior at the University of Houston majoring in psychology and minoring in quantitative social science. He is profoundly intrigued by the application of neuroscience to engineering and explaining psychological phenomena. His current research includes the ways meditation can influence individual prosocial behavior and the spectral correlates of balance. He has been involved with the University of Houston Yoga and Mindfulness lab since 2017, and the UH Brain Center since Summer 2020.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
 <div>
 <img class="peoplepic" src="/neurohumanities/photos/AnaZ.jpg" alt="Ana Zoli Concepcion Bayeme Nanlahao" />
 <h4>Ana Zoli Concepcion Bayeme Nanlaha</h4>
