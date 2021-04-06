@@ -185,8 +185,8 @@ title: People
 <h4> Andria Dugas</h4>
 <h4>Co-founder for Yoga Better</h4>
 
-<button class="modal-button" href="#veron">About Andria Dugas</button>
-<div id="veron" class="modal">
+<button class="modal-button" href="#andria">About Andria Dugas</button>
+<div id="andria" class="modal">
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
@@ -207,19 +207,19 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/neurohumanities/photos/Lizzy.jpg" alt=" Lizzy Bosell" />
+<img class="peoplepic" src="/neurohumanities/photos/LIzzy.jpg" alt=" Lizzy Bosell" />
 <h4>Lizzy Bosell</h4>
 <h4>Yoga Instructor - Yoga Better</h4>
 
 <button class="modal-button" href="#veron">About Lizzy Bosell</button>
-<div id="veron" class="modal">
+<div id="lizzy" class="modal">
 <div class="modal-content">
    <div class="modal-header">
      <span class="close">×</span>
      <h2>Lizzy Bosell</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/neurohumanities/photos/Lizzy.jpg" alt="Lizzy Bosell" />
+       <img class="content peoplepic" src="/neurohumanities/photos/LIzzy.jpg" alt="Lizzy Bosell" />
      <div><p class="content">Lizzy Bosell, RYT-500, has taught public and private yoga classes in the Houston area since 2017. Her fun yet challenging classes focus on building strength and range of motion while bringing a playful awareness to the body. She has practiced and taught in several studios within the Houston community but considers Yoga Better Studio her home base.  
 
 Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of Texas at Austin and currently serves as an active board member of the 501(c)(3), APlantInEveryClassroom.org.  When she’s not working with plants or yoga, she spends a ton of time with her husband and two kids. </p></div>
