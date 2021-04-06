@@ -181,8 +181,8 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/neurohumanities/photos/Andria.png" alt=" Andria Dugas" />
-<h4>V Andria Dugas</h4>
+<img class="peoplepic" src="/neurohumanities/photos/Andria.jpg" alt=" Andria Dugas" />
+<h4> Andria Dugas</h4>
 <h4>Co-founder for Yoga Better</h4>
 
 <button class="modal-button" href="#veron">About Andria Dugas</button>
@@ -193,7 +193,7 @@ title: People
      <h2>Andria Dugas</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/neurohumanities/photos/Andria.png" alt="Andria Dugas" />
+       <img class="content peoplepic" src="/neurohumanities/photos/Andria.jpg" alt="Andria Dugas" />
      <div><p class="content">Andria is the studio owner and senior teacher and co-founder for Yoga Better. With over 20 years of fitness and training experience including a bachelor’s degree in Exercise Science with a Minor in Nutrition from the University of Houston, Andria’s journey towards yoga was one of skepticism and procrastination. Her first introduction to Yoga Better was in 2008, after years suffering from severe inflexibility and pain in her back, hips, and shoulders. In 2014, Andria completed the Yoga Better Training. Using her broad knowledge of body function, and newfound expertise in yoga mechanics, sequencing, and conditioning, she has created a pain-free, stronger, balanced body. She is committed to bring that same transformation to each of her students, and particularly loves bringing yoga to those that may have had no, or negative experiences with it in the past. Whatever your experience, her classes are safe, fun, and appropriate for  all levels.</p></div>
     </div>
  </div>
@@ -207,8 +207,8 @@ title: People
 
 
 <div>
-<img class="peoplepic" src="/neurohumanities/photos/Lizzy.png" alt=" Lizzy Bosell" />
-<h4>V Lizzy Bosell</h4>
+<img class="peoplepic" src="/neurohumanities/photos/Lizzy.jpg" alt=" Lizzy Bosell" />
+<h4>Lizzy Bosell</h4>
 <h4>Yoga Instructor - Yoga Better</h4>
 
 <button class="modal-button" href="#veron">About Lizzy Bosell</button>
@@ -219,7 +219,7 @@ title: People
      <h2>Lizzy Bosell</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/neurohumanities/photos/Lizzy.png" alt="Lizzy Bosell" />
+       <img class="content peoplepic" src="/neurohumanities/photos/Lizzy.jpg" alt="Lizzy Bosell" />
      <div><p class="content">Lizzy Bosell, RYT-500, has taught public and private yoga classes in the Houston area since 2017. Her fun yet challenging classes focus on building strength and range of motion while bringing a playful awareness to the body. She has practiced and taught in several studios within the Houston community but considers Yoga Better Studio her home base.  
 
 Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of Texas at Austin and currently serves as an active board member of the 501(c)(3), APlantInEveryClassroom.org.  When she’s not working with plants or yoga, she spends a ton of time with her husband and two kids. </p></div>
