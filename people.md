@@ -229,8 +229,6 @@ GOCOOGS </p></div>
 
 
 
-
-
 <div>
 <img class="peoplepic" src="/neurohumanities/photos/Andria.jpg" alt=" Andria Dugas" />
 <h4> Andria Dugas</h4>
