@@ -367,7 +367,7 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
 <h4>Electrical and Computer Engineering</h4>
 <h4>bharadwaj.himanshu0@gmail.com</h4>
 
-<button class="modal-button" href="#Luciano">About Himanshu</button>
+<button class="modal-button" href="#himanshu">About Himanshu</button>
 <div id="Himanshu" class="modal">
 <div class="modal-content">
    <div class="modal-header">
@@ -394,7 +394,7 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
 <h4>Electrical and Computer Engineering</h4>
 <h4>chase.r.philip@gmail.com</h4>
 
-<button class="modal-button" href="#Luciano">About Chase</button>
+<button class="modal-button" href="#chase">About Chase</button>
 <div id="Chase" class="modal">
 <div class="modal-content">
    <div class="modal-header">
