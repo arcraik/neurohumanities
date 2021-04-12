@@ -360,12 +360,12 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
 
 
 <div>
-<img class="peoplepic" src="/neurohumanities/photos/Himanshu.jpg" alt="Himanshu Bharadwaj Kunapuli" />
+<img class="peoplepic" src="/neurohumanities/photos/himanshu.jpg" alt="Himanshu Bharadwaj Kunapuli" />
 <h4>Himanshu Bharadwaj Kunapuli</h4>
 <h4>Electrical and Computer Engineering</h4>
 <h4>bharadwaj.himanshu0@gmail.com</h4>
 
-<button class="modal-button" href="#himanshu">About Himanshu</button>
+<button class="modal-button" href="#Himanshu">About Himanshu</button>
 <div id="Himanshu" class="modal">
 <div class="modal-content">
    <div class="modal-header">
@@ -373,7 +373,7 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
      <h2>Himanshu Bharadwaj Kunapuli</h2>
    </div>
    <div class="modal-body">
-       <img class="content peoplepic" src="/neurohumanities/photos/Himanshu.jpg" alt="Himanshu Bharadwaj Kunapuli" />
+       <img class="content peoplepic" src="/neurohumanities/photos/himanshu.jpg" alt="Himanshu Bharadwaj Kunapuli" />
      <div><p class="content">Himanshu is pursuing his masters in electrical engineering. He is very much interested in robotics which motivated him to do his masters with a specialization in controls and robotics.</p></div>
     </div>
  </div>
@@ -392,7 +392,7 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
 <h4>Electrical and Computer Engineering</h4>
 <h4>chase.r.philip@gmail.com</h4>
 
-<button class="modal-button" href="#chase">About Chase</button>
+<button class="modal-button" href="#Chase">About Chase</button>
 <div id="Chase" class="modal">
 <div class="modal-content">
    <div class="modal-header">
