@@ -196,28 +196,28 @@ title: People
    <div class="modal-body">
        <img class="content peoplepic" src="/neurohumanities/photos/Andrew.jpg" alt="Andrew Royal Dugas" />
      <div><p class="content">Since 1997, Andrew Royal Dugas has yodeled the benefits of yoga from the hilltops of mountainous
-Houston, Texas. Learning in a tradi􀆟onal environment, si􀆫ng at the feet of his guru, Andrew has been in
-an inquiry to con􀆟nually describe and refine the yoga handed down to him. Adding curiosity, tes􀆟ng, and
+Houston, Texas. Learning in a traditional environment, sitting at the feet of his guru, Andrew has been in
+an inquiry to continually describe and refine the yoga handed down to him. Adding curiosity, testing, and
 a willingness to stop doing anything that was not helpful has led him away from the typical forms and
 teachings of yoga. Having taught more than 30,000 classes and trained over 130 teachers in the Yoga
-Be􀆩er Style, he has developed safe environments for the complete spectrum of human condi􀆟ons,
-designing special prac􀆟ces that help everyone from the elderly, injured, pregnant, all the way to elite
-athletes, acrobats, and the strongest people in Houston. He has spent the last 15 years teaching others in this style so that they can lead their students to be􀆩er
-results. In the style he founded and now guides, the collec􀆟ve of teachers has taken on the conversa􀆟on
-of what the evolu􀆟on of yoga means. In our style, classes educate and guide. We teach in common
-language without pressure or judgement. They are at 􀆟mes silly, then poignant, yet always trea􀆟ng the
-trust the students give to us as a precious gi􀅌 not taken for granted.
-Using a deep understanding of anatomy, mechanics, mindfulness, medita􀆟on, brain func􀆟on, stress,
-learning, communica􀆟on, sequencing, and a huge reservoir of teaching experience, we become Sherpas
+Better Style, he has developed safe environments for the complete spectrum of human conditions,
+designing special practices that help everyone from the elderly, injured, pregnant, all the way to elite
+athletes, acrobats, and the strongest people in Houston. He has spent the last 15 years teaching others in this style so that they can lead their students to better
+results. In the style he founded and now guides, the collective of teachers has taken on the conversation
+of what the evolution of yoga means. In our style, classes educate and guide. We teach in common
+language without pressure or judgement. They are at times silly, then poignant, yet always treating the
+trust the students give to us as a precious gift not taken for granted.
+Using a deep understanding of anatomy, mechanics, mindfulness, meditation, brain function, stress,
+learning, communication, sequencing, and a huge reservoir of teaching experience, we become Sherpas
 for your journey to having be􀆩er choices for your mental and physical well-being.
 Our promise to every student is you will walk in feeling one way in your head and body and leave feeling
-be􀆩er.
-Currently he owns and operates Yoga Be􀆩er Studio which offers in-person and online classes, courses
-and more. In Andrews free 􀆟me, he enjoys collec􀆟ng disciplines that make him feel dumb, weak and
-force growth. Recent acquisi􀆟ons include Jiu Jitsu, road and mountain biking, calligraphy, paren􀆟ng
+better.
+Currently he owns and operates Yoga Better Studio which offers in-person and online classes, courses
+and more. In Andrews free time, he enjoys collecting disciplines that make him feel dumb, weak and
+force growth. Recent acquisitions include Jiu Jitsu, road and mountain biking, calligraphy, parenting
 teenagers, entrepreneurship, and running those businesses with the woman of his dreams.
-You can check out his work: y ogabe􀆩er.com or m y.yogabe􀆩er.com
-AND, if you are interested in a free month subscrip􀆟on to our online yoga pla􀆞orm, use promo code:
+You can check out his work: yogabetter.com or my.yogabetter.com
+AND, if you are interested in a free month subscription to our online yoga platorm, use promo code:
 GOCOOGS </p></div>
     </div>
  </div>
