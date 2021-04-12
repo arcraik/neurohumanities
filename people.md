@@ -186,7 +186,7 @@ title: People
 <h4> Andrew Royal Dugas</h4>
 <h4> Founder/Owner (Yoga Better)</h4>
 
-<button class="modal-button" href="#andria">About Andrew</button>
+<button class="modal-button" href="#andrew">About Andrew</button>
 <div id="andrew" class="modal">
 <div class="modal-content">
    <div class="modal-header">
@@ -236,7 +236,7 @@ GOCOOGS </p></div>
 <h4> Andria Dugas</h4>
 <h4>Co-founder for Yoga Better</h4>
 
-<button class="modal-button" href="#andria">About Andria Dugas</button>
+<button class="modal-button" href="#andria">About Andria</button>
 <div id="andria" class="modal">
 <div class="modal-content">
    <div class="modal-header">
@@ -262,7 +262,7 @@ GOCOOGS </p></div>
 <h4>Lizzy Bosell</h4>
 <h4>Yoga Instructor - Yoga Better</h4>
 
-<button class="modal-button" href="#lizzy">About Lizzy Bosell</button>
+<button class="modal-button" href="#lizzy">About Lizzy</button>
 <div id="lizzy" class="modal">
 <div class="modal-content">
    <div class="modal-header">
