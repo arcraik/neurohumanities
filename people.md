@@ -334,6 +334,32 @@ Lizzy holds a MPAff from the LBJ School of Public Affairs at The University of T
 
 
 <div>
+<img class="peoplepic" src="/neurohumanities/photos/sankalp.jpg" alt="Sankalp Parekh" />
+<h4>Sankalp Parekh</h4>
+<h4>Electrical and Computer Engineering</h4>
+<h4>sparekh2@.uh.edu></h4>
+
+<button class="modal-button" href="#sankalp">About Sankalp</button>
+<div id="sankalp" class="modal">
+<div class="modal-content">
+   <div class="modal-header">
+     <span class="close">×</span>
+     <h2>Sankalp Parekh</h2>
+   </div>
+   <div class="modal-body">
+       <img class="content peoplepic" src="/neurohumanities/photos/sankalp.jpg" alt="Sankalp Parekh" />
+     <div><p class="content">Sankalp Parekh is a M.S. student at the ECE department of the University of Houston. He is presently working on developing control algorithm for closed loop control of anesthesia administration in simulated patient environment under the guidance of Dr. Marzia Cescon. He was part of the Computational Medicine Lab under leadership of Dr. Rose T. Faghih, where he worked on epileptic seizure detection using EEG(Electroencephalography) data and Cognitive stress detection using SCR (skin conductance response) data.</p></div>
+    </div>
+ </div>
+ </div>
+</div>
+<br>
+
+
+
+
+
+<div>
 <img class="peoplepic" src="/neurohumanities/photos/Luciano.jpg" alt="Luciano Rezende Fiuza Branco" />
 <h4>Luciano Rezende Fiuza Branco</h4>
 <h4>Electrical and Computer Engineering</h4>
