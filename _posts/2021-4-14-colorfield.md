@@ -13,15 +13,20 @@ Date: April 14th 2021
 <br>
 Right after the session on colorfield was done I suggested to the team that the piece Here by Braman was my favorite. To me the piece was representative of human perception in how one sees the world. It can be quite different depending on how they look at it. 
 
-<br>
-<img src="/neurohumanities/photos/colorfieldV2.png">
-<br>
+
 Later, I wanted to see if any EEG correlates depicted my preference. Alpha asymmetry is a measure of creative engagement which is reported to increase (more positive) when a person engages in creative tasks. I decided to test how the alpha asymmetry varied for each of the pieces.
 As I mentioned, I had identified the exhibit ‘Here’ to be my favorite before the data analysis started. When looking at the feature, I also found that this piece exhibited the largest alpha asymmetry.
  Piece 5 (Pop) even though not my favorite, had a higher alpha asymmetry too. It was an exhibit of a tree and my fav thing to do on weekends is spending time in parks or near lakes which could have unconsciously elicited this response. 
  If you look during baseline (eye open resting condition, not doing any activity), you can see the value is centered at zero (similarly many other exhibits too) which indicates this measure is not always high by default. This was exciting to see a previously studied feature relating to my behavioral response. 
 <br>
 <br>
+
+
+<br>
+<img src="/neurohumanities/photos/colorfieldV2.png">
+<br>
+<br>
+
 
 In addition, one interesting feature I observed during the process was that my eye blink rate (BR) was heavier than usual. The mean resting BR of population is approx 20 blinks/min with a standard deviation of 10. 
 My BR was normal during the baseline condition as expected. However, during the experiment, as can be seen from the following figure, I had elevated blink rates. Typically blinks are considered noise and their contributions are removed before studying brain signals.
