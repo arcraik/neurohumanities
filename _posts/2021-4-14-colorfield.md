@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preliminary Analysis (Colorfield : Akshay Ravindran)
+title: Preliminary Analysis (Colorfield-Akshay Ravindran)
 ---
 
 
